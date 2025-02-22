@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import category from './[category]/page'
+import category from '../[category]/page'
 import { json } from 'stream/consumers'
 
 // src/lib/getCategories.ts
